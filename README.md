@@ -186,8 +186,7 @@ bullet-frenzy-opengl/
 
 ## Author
 
-**Md. Tanvirul Islam Rifat (22101311)**
-BRAC University — CSE423, Computer Graphics
+**Md. Tanvirul Islam Rifat**
 
 * **GitHub:** [@tanvirul-islam-rifat](https://github.com/tanvirul-islam-rifat)
 * **LinkedIn:** [Tanvirul Islam Rifat](https://www.linkedin.com/in/tanvirul-islam-rifat)
